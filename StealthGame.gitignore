@@ -1,0 +1,13 @@
+# Ignore Unreal build folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.sln
+*.user
+*.opensdf
+*.sdf
+*.suo
+*.xcodeproj
+*.xcworkspace
